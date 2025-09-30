@@ -1,5 +1,5 @@
 # sales-trend-analysis
-ales Trend Analysis Using Aggregations
+sales Trend Analysis Using Aggregations
 
 This project analyzes monthly revenue and order volume from an online sales dataset. The analysis is implemented using SQL queries (compatible with PostgreSQL, MySQL, and SQLite) and executed in Google Colab using SQLite for demonstration.
 
